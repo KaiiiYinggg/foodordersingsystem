@@ -1,0 +1,10 @@
+Leong Sze Wei|920429111234|szewei@hotmail.com|019-5544332|21, Jalan Raya 11|1992-04-29|Female|Vespa|VRE1235|MAZDA|54321|rn1
+Liew Wei Jun|980315102345|weijun@gmail.com|017-8892345|10, Jalan Mawar 3|1998-03-15|Male|Yamaha|VRE2345|HONDA|22222|rn2  
+Tan Mei Ling|970712103456|meiling@yahoo.com|016-3345678|25, Jalan Cempaka 2|1997-07-12|Female|Suzuki|VRE3456|NISSAN|33333|rn3  
+Chong Li Wei|000918104567|liwei@hotmail.com|013-5567890|8, Jalan Anggerik 5|2000-09-18|Male|Ducati|VRE4567|FORD|44444|rn4  
+Ng Siew Yin|960823105678|siewyin@gmail.com|012-9988776|14, Jalan Teratai 4|1996-08-23|Female|Kawasaki|VRE5678|BMW|55555|rn5  
+Wong Jia Hao|990305106789|jiahao@outlook.com|011-2233445|30, Jalan Kenanga 6|1999-03-05|Male|Harley|VRE6789|AUDI|66666|rn6  
+Lim Yi Xuan|950927107890|yixuan@gmail.com|018-6655443|5, Jalan Dahlia 7|1995-09-27|Female|Honda|VRE7890|MERCEDES|77777|rn7  
+Teh Zhi Yuan|970125108901|zhiyuan@hotmail.com|014-7788992|19, Jalan Melati 8|1997-01-25|Male|BMW|VRE8901|VOLVO|88888|rn8  
+Chan Hui Min|940204109012|huimin@yahoo.com|012-4455667|12, Jalan Kemboja 9|1994-02-04|Female|Aprilia|VRE9012|HYUNDAI|99999|rn9  
+Goh Wei Kang|010615110123|weikang@gmail.com|017-9900112|7, Jalan Tulip 10|2001-06-15|Male|Triumph|VRE0123|TESLA|12345|rn10  

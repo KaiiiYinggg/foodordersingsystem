@@ -1,0 +1,16 @@
+Spaghetti Bolognese|Main|25.0
+Squid Ink Pasta with Seafood|Main|30.0
+Carbonara Pasta|Main|28.0
+Creamy Mushroom Pasta|Main|25.0
+Cheesy Baked Pasta|Main|28.0
+Garlic Bread with Cheese|Starter|13.0
+Cream of Mushroom Soup|Starter|8.0
+Mozzarella Sticks|Starter|10.0
+Chicken Wings|Starter|10.0
+Fresh Lemonade|Drinks|5.0
+Iced Lemon Tea|Drinks|8.0
+Iced Peach Tea|Drinks|8.0
+Latte|Drinks|9.0
+Cappuccino|Drinks|9.0
+Chocolate|Drinks|8.0
+Cookie|Starter|5.0

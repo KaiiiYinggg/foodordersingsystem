@@ -1,0 +1,37 @@
+OR1740049840720|cust1|Cookies|1|Delivery|RM 5.00|Completed|2025-02-22|9fe44728-d57e-4dcf-8df5-2d603c7c1df4|4, Jalan 3, Segambut Dalam, Perak, Taiping,52000|01:05:22|rn1|Tan Wei Sheng
+OR1741312321242|cust2|Cookies|1|Delivery|RM 10.00|Completed|2025-01-22|9fe44728-d57e-4dcf-8df5-2d603c7c1df4|4, Jalan 3, Taman Maluri, Perak, Taiping,52010|13:39:39|rn1|Lim Jia Ying
+OR1324325355444|cust3|Iced Lemon Tea|1|Delivery|RM 8.00|Pending|2025-01-22|9fe44728-d57e-4dcf-8df5-2d603c7c1df4|9, Jalan 7, Taman Tioman, Selangor, Taiping,52010|11:17:12|rn1|Chong Kai Wen
+OR3435435435453|cust4|Iced Lemon Tea|2|Delivery|RM 16.00|Completed|2024-01-22|9fe44728-d57e-4dcf-8df5-2d603c7c1df4|7, Jalan 21, Taman Samudera, Shah Alam, Selangor,52010|09:17:12|rn1|Ng Yi Xuan
+OR1740439820345|cust5|Spaghetti Bolognese|1|Delivery|RM 25.00|Food Pickup|2025-02-13|5fe44728-d57e-4dcf-8df5-2d603c7c1df5|10, Jalan 5, Taman Bukit Indah, Kuala Lumpur,54000|12:15:30|rn2|Wong Zhi Hao
+OR1740439820346|cust6|Squid Ink Pasta with Seafood|2|Delivery|RM 60.00|Order Accepted by Runner|2025-01-20|3fe44728-d57e-4dcf-8df5-2d603c7c1df6|12, Jalan 9, Taman Cheras, Selangor,56000|15:45:10|rn3|Teo Mei Xin
+OR1740439820347|cust7|Carbonara Pasta|1|Delivery|RM 28.00|Completed|2025-02-19|2fe44728-d57e-4dcf-8df5-2d603c7c1df7|15, Jalan 14, Taman Melawati, Kuala Lumpur,55000|18:25:55|rn4|Yap Han Ming
+OR1740439820348|cust8|Creamy Mushroom Pasta|1|Delivery|RM 25.00|Food Pickup|2025-01-12|7fe44728-d57e-4dcf-8df5-2d603c7c1df8|18, Jalan 21, Taman Segar, Selangor,57000|10:05:45|rn5|Chan Hui Ying
+OR1740439820349|cust9|Cheesy Baked Pasta|2|Delivery|RM 56.00|Order Prepared|2025-02-02|9fe44728-d57e-4dcf-8df5-2d603c7c1df9|20, Jalan 30, Taman Setia, Selangor,58000|14:45:20|rn6|Goh Wei Lun
+OR1740439820350|cust10|Garlic Bread with Cheese|1|Delivery|RM 13.00|Pending|2025-02-03|6fe44728-d57e-4dcf-8df5-2d603c7c1df0|25, Jalan 40, Taman Megah, Kuala Lumpur,59000|09:35:10|rn7|Leong Sze Min
+OR1740439820351|cust1|Cream of Mushroom Soup|2|Delivery|RM 16.00|Order Prepared|2024-12-08|8fe44728-d57e-4dcf-8df5-2d603c7c1df1|30, Jalan 50, Taman Sri Muda, Selangor,60000|11:20:45|rn8|Tan Wei Sheng
+OR1740439820352|cust2|Mozzarella Sticks|3|Dine-in|RM 30.00|Order Prepared|2025-02-14|4fe44728-d57e-4dcf-8df5-2d603c7c1df2|null|17:55:30|runnerID|Lim Jia Ying
+OR1740439820353|cust3|Chicken Wings|1|Delivery|RM 10.00|Order Prepared|2025-02-03|1fe44728-d57e-4dcf-8df5-2d603c7c1df3|40, Jalan 70, Taman Bukit Jalil, Kuala Lumpur,62000|13:40:15|rn7|Chong Kai Wen
+OR1740439820354|cust4|Fresh Lemonade|2|Delivery|RM 10.00|Order Prepared|2025-01-24|2fe44728-d57e-4dcf-8df5-2d603c7c1df4|45, Jalan 80, Taman Seputeh, Kuala Lumpur,63000|08:30:20|rn6|Ng Yi Xuan
+OR1740439820355|cust6|Iced Lemon Tea|1|Delivery|RM 8.00|Completed|2024-02-11|3fe44728-d57e-4dcf-8df5-2d603c7c1df5|50, Jalan 90, Taman Desa Jaya, Selangor,64000|16:10:40|rn6|Teo Mei Xin
+OR1740439820356|cust5|Iced Peach Tea|2|Dine-in|RM 16.00|Order Prepared|2023-10-10|4fe44728-d57e-4dcf-8df5-2d603c7c1df6|null|19:20:50|runnerID|Wong Zhi Hao
+OR1740439820357|cust7|Latte|1|Delivery|RM 9.00|Completed|2024-04-09|5fe44728-d57e-4dcf-8df5-2d603c7c1df7|60, Jalan 110, Taman Indah, Selangor,66000|20:05:30|rn4|Yap Han Ming
+OR1740439820358|cust8|Cappuccino|2|Delivery|RM 18.00|Order Accepted by Runner|2024-05-19|6fe44728-d57e-4dcf-8df5-2d603c7c1df8|65, Jalan 120, Taman Sutera, Selangor,67000|07:50:25|rn8|Chan Hui Ying
+OR1740439820359|cust9|Chocolate|1|Delivery|RM 8.00|Food Pickup|2024-11-15|7fe44728-d57e-4dcf-8df5-2d603c7c1df9|70, Jalan 130, Taman Aman, Kuala Lumpur,68000|22:15:40|rn5|Goh Wei Lun
+OR1740439820360|cust10|Cookies|4|Delivery|RM 20.00|Delivering|2025-01-30|8fe44728-d57e-4dcf-8df5-2d603c7c1df0|75, Jalan 140, Taman Damai, Selangor,69000|10:55:10|rn3|Leong Sze Min
+OR1740439820361|cust1|Spaghetti Bolognese|2|Delivery|RM 50.00|Delivering|2025-02-04|9fe44728-d57e-4dcf-8df5-2d603c7c1df1|80, Jalan 150, Taman Maju, Selangor,70000|12:45:30|rn6|Tan Wei Sheng
+OR1740439820362|cust2|Squid Ink Pasta with Seafood|1|Delivery|RM 30.00|Delivering|2025-02-08|8fe44728-d57e-4dcf-8df5-2d603c7c1df2|85, Jalan 160, Taman Permai, Kuala Lumpur,71000|14:25:40|rn3|Lim Jia Ying
+OR1740439820363|cust3|Carbonara Pasta|3|Delivery|RM 84.00|Food Pickup|2025-02-08|7fe44728-d57e-4dcf-8df5-2d603c7c1df3|90, Jalan 170, Taman Amanah, Selangor,72000|18:50:55|rn5|Chong Kai Wen
+OR1740439820364|cust4|Creamy Mushroom Pasta|2|Delivery|RM 50.00|Completed|2025-01-11|6fe44728-d57e-4dcf-8df5-2d603c7c1df4|95, Jalan 180, Taman Sutera, Kuala Lumpur,73000|20:10:25|rn8|Ng Yi Xuan
+OR1740439820365|cust5|Cheesy Baked Pasta|1|Delivery|RM 28.00|Completed|2025-02-21|5fe44728-d57e-4dcf-8df5-2d603c7c1df5|100, Jalan 190, Taman Ria, Selangor,74000|09:35:10|rn4|Wong Zhi Hao
+OR1740439820366|cust6|Garlic Bread with Cheese|4|Delivery|RM 52.00|Completed|2025-01-31|4fe44728-d57e-4dcf-8df5-2d603c7c1df6|105, Jalan 200, Taman Flora, Kuala Lumpur,75000|16:40:15|rn7|Teo Mei Xin
+OR1740439820367|cust7|Cream of Mushroom Soup|1|Delivery|RM 8.00|Order Prepared|2025-01-30|3fe44728-d57e-4dcf-8df5-2d603c7c1df7|110, Jalan 210, Taman Seri, Selangor,76000|11:50:45|rn3|Yap Han Ming
+OR1740439820368|cust8|Mozzarella Sticks|2|Delivery|RM 20.00|Order Prepared|2025-01-26|2fe44728-d57e-4dcf-8df5-2d603c7c1df8|115, Jalan 220, Taman Melati, Kuala Lumpur,77000|08:30:20|rn4|Chan Hui Ying
+OR1740439820369|cust9|Chicken Wings|3|Dine-in|RM 30.00|Order Prepared|2025-01-28|1fe44728-d57e-4dcf-8df5-2d603c7c1df9|120, Jalan 230, Taman Intan, Selangor,78000|13:20:45|rn4|Goh Wei Lun
+OR1740439820370|cust10|Fresh Lemonade|1|Delivery|RM 5.00|Order Prepared|2025-01-27|9fe44728-d57e-4dcf-8df5-2d603c7c1dfa|125, Jalan 240, Taman Dahlia, Kuala Lumpur,79000|17:55:30|rn6|Leong Sze Min
+OR1740439820371|cust1|Iced Lemon Tea|3|Dine-in|RM 24.00|Food Pickup|2025-01-13|8fe44728-d57e-4dcf-8df5-2d603c7c1dfb|130, Jalan 250, Taman Mawar, Selangor,80000|10:05:45|rn5|Tan Wei Sheng
+OR1740439820372|cust2|Iced Peach Tea|1|Delivery|RM 8.00|Order Accepted by Runner|2025-01-25|7fe44728-d57e-4dcf-8df5-2d603c7c1dfc|135, Jalan 260, Taman Cempaka, Kuala Lumpur,81000|14:45:20|rn5|Lim Jia Ying
+OR1740439820373|cust3|Latte|2|Delivery|RM 18.00|Pending|2025-01-24|6fe44728-d57e-4dcf-8df5-2d603c7c1dfd|140, Jalan 270, Taman Mawar, Selangor,82000|19:20:50|rn7|Chong Kai Wen
+OR1740439820374|cust4|Cappuccino|1|Delivery|RM 9.00|Delivering|2025-01-23|5fe44728-d57e-4dcf-8df5-2d603c7c1dfe|145, Jalan 280, Taman Sri, Kuala Lumpur,83000|22:15:40|rn5|Ng Yi Xuan
+OR1740439820375|cust5|Chocolate|2|Delivery|RM 16.00|Completed|2025-01-22|4fe44728-d57e-4dcf-8df5-2d603c7c1dff|150, Jalan 290, Taman Sentosa, Selangor,84000|07:50:25|rn7|Wong Zhi Hao
+OR1740222794865|cust1|Fresh Lemonade|1|Take away|RM 5.00|Pending|2025-02-22|0e1f3e6a-5d30-4b5e-a4d7-f8ffe1672f6a|null|19:13:14|runnerID|Tan Wei Sheng
+OR1740222803938|cust1|Chicken Wings|1|Delivery|RM 15.90|Completed|2025-02-22|4d9029b4-04c9-4ba1-8c1a-4b32114aa3ce|10, Jalan Mawar 3, Shah Alam, 44444, Selangor|19:15:30|rn1|Tan Wei Sheng

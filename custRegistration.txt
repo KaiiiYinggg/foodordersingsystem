@@ -1,0 +1,10 @@
+Tan Wei Sheng|110521222222|weisheng@gmail.com|017-8892345|10, Jalan Mawar 3, |Selangor|Shah Alam|44444|2003-05-21|Male|22222|cust1  
+Lim Jia Ying|100712333333|jiaying@yahoo.com|016-3345678|25, Jalan Cempaka 2, |Perak|Ipoh|55555|2002-07-12|Female|33333|cust2  
+Chong Kai Wen|091018444444|kaiwen@hotmail.com|013-5567890|8, Jalan Anggerik 5, |Negeri Sembilan|Seremban|66666|2005-10-18|Male|44444|cust3  
+Ng Yi Xuan|080823555555|yixuan@gmail.com|012-9988776|14, Jalan Teratai 4, |Kelantan|Kota Bharu|77777|1999-08-23|Female|55555|cust4  
+Wong Zhi Hao|070305666666|zhihao@outlook.com|011-2233445|30, Jalan Kenanga 6, |Terengganu|Kuala Terengganu|88888|2004-03-05|Male|66666|cust5  
+Teo Mei Xin|060927777777|meixin@gmail.com|018-6655443|5, Jalan Dahlia 7, |Pahang|Kuantan|99999|2001-09-27|Female|77777|cust6  
+Yap Han Ming|051125888888|hanming@hotmail.com|014-7788992|19, Jalan Melati 8, |Melaka|Melaka|11111|2003-11-25|Male|88888|cust7  
+Chan Hui Ying|041204999999|huiying@yahoo.com|012-4455667|12, Jalan Kemboja 9, |Sabah|Kota Kinabalu|22222|1998-12-04|Female|99999|cust8  
+Goh Wei Lun|030615101010|weilun@gmail.com|017-9900112|7, Jalan Tulip 10, |Sarawak|Kuching|33333|2000-06-15|Male|10101|cust9  
+Leong Sze Min|020429121212|szemin@hotmail.com|019-5544332|21, Jalan Raya 11, |Selangor|Petaling Jaya|44444|1995-04-29|Female|12121|cust10  

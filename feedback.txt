@@ -1,0 +1,9 @@
+OR1741312321242|cust2|Cookies|Good|Tastyyy!|Thanks for support|On time!|Thanks for support|2025-02-22
+OR3435435435453|cust4|Iced Lemon Tea|Good|Delicious!|Thanks for supporting!|Good performance|Thank for supporting!|2024-01-22
+OR1740439820347|cust7|Carbonara Pasta|Bad|Not worth it|Try better|Late|Do better|2025-02-19
+OR1740439820355|cust5|Iced Lemon Tea|Good|Yummy!|Thanks for everything!|Excellent|Thanks for everything!|2024-01-22
+OR1740439820357|cust7|Latte|Okay!|Not bad but make it stronger in flavor!|Thanks!|On time|Thanks!|2024-04-09
+OR1740439820364|cust4|Creamy Mushroom Pasta|Good|Flavorful!|Thank you|A little late|Thanks|2025-01-11
+OR1740439820365|cust5|Cheesy Baked Pasta|Bad|Not worth it, very little cheese|Try better|Very late, late for 1 hour!|Do better|2025-02-21
+OR1740439820366|cust6|Garlic Bread with Cheese|Good|Good|Perfect|Fast Delivery!|Perfection|2025-01-31
+OR1740439820375|cust5|Chocolate|2|Delivery|Good|Good|Perfect|Fast Delivery!|Perfection|2025-01-22
